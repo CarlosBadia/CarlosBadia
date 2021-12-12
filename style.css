@@ -1,0 +1,26 @@
+h1{
+    color: white;
+    background-color: black;
+}
+h2{
+    background-color: rgb(133, 133, 133);
+    display: inline-block;
+    width: 48%;
+}
+li{
+    background-color: rgb(189, 189, 189);
+    display: inline-block;
+    width: 24%;
+}
+.img1{
+    float: left
+}
+.img2{
+    float: left
+}
+.textDivided{
+   
+    display: inline-block;
+    width: 40% ;
+    
+}
